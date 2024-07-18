@@ -156,3 +156,7 @@ You are required to submit the following for review:
 
 ---
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
+Check out the deployed website here!
+http://127.0.0.1:5500/index.html#search-engine-optimization
+
